@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment10.params=selectSkill
+comment10.target=void\ selectSkill(java.lang.String)
+comment2.params=name
+comment2.target=Player(java.lang.String)
+comment3.params=newName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getChoice()
+comment6.params=newChoice
+comment6.target=void\ setChoice(java.lang.String)
+comment7.params=selectChoice
+comment7.target=void\ selectChoice(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getSkill()
+comment9.params=newSkill
+comment9.target=void\ setSkill(java.lang.String)
+numComments=11
